@@ -1,10 +1,10 @@
 {
-	"name": "New project",
-	"short_name": "New project",
+	"name": "Hanoi Tower Template",
+	"short_name": "Hanoi Tower Template",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "landscape",
+	"orientation": "any",
 	"background_color": "#ffffff",
 	"icons": [
 		{
